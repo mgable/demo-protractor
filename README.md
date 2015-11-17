@@ -1,12 +1,17 @@
-# sites
+# Protractor demostration
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.11.1.
+This project will demostrate the use of protractor in end to end testing the [TODOMVC application](http://todomvc.com/examples/angularjs/#/).
 
-## Build & development
+### Install
 
-Run `grunt` for building and `grunt serve` for preview.
+Run `npm install`.
 
-## Testing
+### Running the tests
 
-Running `grunt test` will run the unit tests with karma.
+An internet connection is necessary to run the tests.
+
+Running `protractor protractor.config.js` will run the end to end tests with protractor.
+
+### Documentation
+
+There is a companion reveal.js presentation in which this demonstration was used. That presentation is found at documents/index.html.
