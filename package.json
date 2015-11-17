@@ -1,0 +1,13 @@
+{
+  "name": "protractor tests",
+  "version": "0.1.0",
+  "dependencies": {},
+  "repository": "https://github.com/mgable/demo-protractor",
+  "devDependencies": {
+    "jasmine-spec-reporter": "~1.1.2",
+    "protractor": "1.8.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
