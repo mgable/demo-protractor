@@ -10,6 +10,8 @@ Run `npm install`.
 
 An internet connection is necessary to run the tests.
 
+Execute the WebDriver in a separate process by running `webdriver-manager start`.
+
 Running `protractor protractor.config.js` will run the end to end tests with protractor.
 
 ### Documentation
